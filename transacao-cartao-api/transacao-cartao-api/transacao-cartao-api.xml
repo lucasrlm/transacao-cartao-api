@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>transacao-cartao-api</name>
+    </assembly>
+    <members>
+        <member name="T:transacao_cartao_api.Controllers.PagamentosController">
+            <summary>
+            Controlador de pagamento com cartão
+            </summary>
+        </member>
+        <member name="M:transacao_cartao_api.Controllers.PagamentosController.PostPayment(transacao_cartao_api.Entities.Pagamento)">
+            <summary>
+            Retorna os detalhes do pagamento após ele ser realizado
+            </summary>
+            <param name="pagamento"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
